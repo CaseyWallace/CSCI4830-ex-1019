@@ -1,0 +1,5 @@
+package q1.extract_method.refactored;
+
+public interface checkString {
+
+}

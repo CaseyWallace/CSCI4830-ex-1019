@@ -2,6 +2,8 @@ package q1.extract_method.refactored;
 
 import java.util.List;
 
+import q1.extract_method.org.Edge;
+
 public class A {
    Node m1(List<Node> nodes, String p) {
       checkString(nodes, p);
